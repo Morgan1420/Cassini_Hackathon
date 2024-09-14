@@ -1,14 +1,25 @@
-# Cassini_Hackathon
-Find potential areas to exploit eolic energy
+# AquaVista
+![Logo de AquaVista](dive-app-512.png)
+## 🌍Idea 
 
-Generar un mapa de calor con datos de Cassini y Galileo para identificar terrenos aptos para parques eólicos y fomentar su desarrollo. 
+Using satellite imagery, we assess beach water conditions and provide real-time quality ratings, ensuring safer, cleaner coastal environments through accurate data analysis.
 
-- Idea: fer un mapa de calor en un terreny sobre si es explotable o no per posar un parc eolic. 
+## 🛰️EU space technologies 
 
-- Objectiu: Amb el mapa es pot incentivar a empreses o goberns a que faigin parcs eolics si el estudi diu que es bon terreny per fer-ho. Buscar terrenys explotables. 
+Using Sentinel 3's xx, yy and temperature sensors, we extract and analyze data to provide comprehensive information to our clients. 
 
-- Com es fara: Cassini te una opcio per veure el vent de le regions. Es podria implementar l’estudi del terreny amb satelits Galileo 
+## 🏙️Sustainable living (Challenge 2)
 
-# TO_DO
+We provide data points of water quality to citizens and innovative tools for regional and municipal authorities. 
 
-[]
+## 👨‍👨‍👦‍👦👪Meet our Team  
+
+| Nombre                | Cargo                                             |
+|-----------------------|---------------------------------------------------|
+| Óscar Sardà Martín    | CTO (Technical EO Product and Service Development)|
+| David Sardà Martín    | CDO (UI and UX Creative)                          |
+| Mario Lacueva Conesa  | CBO (Business Modelling and Value Engineering)    |
+| Gerard García Gros    | Technical Product Developer                      |
+| Jan Moran Ricardo     | CTO (Technical EO Product and Service Development)|
+| Arnau Fosch Ferrer    | Technical Product Developer                      |
+| Biel Barón Ciriano    | CEO (Leadership Management and Business Developer)|
